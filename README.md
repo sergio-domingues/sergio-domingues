@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="480"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkbGw5eW0zbGV4eDJxOHQwYnN5dTk4NjVyeTAxanc0ejh1eW40eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sapdomingues/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120"/>
   </a>
 </div>
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=sergio-domingues&style=for-the-badge&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=sergio-domingues&style=for-the-badge&color=blue" alt="" width="120"/>
 </div>
 <h2  align="center">
   Ahoy!
@@ -44,6 +44,6 @@ If you want to reach out :mailbox: or know more about my past experiences check 
 
 ---
 
-### :fire: My Stats
+### :fire: Stats
 
 [![serdom's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serdom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
