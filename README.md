@@ -9,12 +9,14 @@
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=sergio-domingues&style=for-the-badge&color=blue" alt="" width="120"/>
 </div>
+
 <h2  align="center">
-  Ahoy!
+  Ahoy! ️️🏴‍☠&nbsp;
+
+Or should I say Hello World?&nbsp;
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-
----
 
 ### 👨‍💻 About me
 
@@ -25,6 +27,8 @@ In my free time, I enjoy working out, playing football, and spending time with m
 If you want to reach out :mailbox: or know more about my past experiences check my [![Linkedin Badge](https://img.shields.io/badge/-sapdomingues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sapdomingues/)
 
 ---
+
+### Technologies I feel comfortable with
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,8 +41,8 @@ If you want to reach out :mailbox: or know more about my past experiences check 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
 
 </div>
 
