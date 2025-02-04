@@ -20,15 +20,15 @@ Or should I say Hello World?&nbsp;
 
 ### 👨‍💻 About me
 
-I'm a Software Engineer from Portugal 🇵🇹 I previously worked as a Full Stack Developer, but in recent years, I've specialized in Backend Development and Cloud Architecture. I'm passionate about security and performance, and I'm always seeking new challenges to enhance my skills. Also, I tend to prefer dark mode, because light attracts bugs. 🐛
+I'm a Software Engineer from Portugal 🇵🇹 I previously worked as a Full Stack Developer, but in recent years, I've specialized in Backend Development and Cloud Architecture. I'm passionate about security and performance, and I'm always seeking new challenges to enhance my skills. Also, I tend to prefer dark mode, because light attracts bugs 🐛
 
 I enjoy working out, playing football, and spending time with my family in my free time. I also love traveling with friends!
 
-If you want to reach out :mailbox: or know more about my past experiences check my LinkedIn page [![Linkedin Badge](https://img.shields.io/badge/-sapdomingues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sapdomingues/)
+If you want to reach out :mailbox: or know more about my past experiences check my LinkedIn page -> [![Linkedin Badge](https://img.shields.io/badge/-sapdomingues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sapdomingues/)
 
 ---
 
-### Technologies I feel comfortable with
+### Technologies I feel most comfortable with
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -39,15 +39,11 @@ If you want to reach out :mailbox: or know more about my past experiences check 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="tf" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: Stats
 
-[![serdom's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serdom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Check my wakatime stats -> <a href="https://wakatime.com/@8b364fe0-3252-4b18-9256-2f248679e2c4"><img src="https://wakatime.com/badge/user/8b364fe0-3252-4b18-9256-2f248679e2c4.svg" alt="Total time coded since May 22 2017" /></a>
