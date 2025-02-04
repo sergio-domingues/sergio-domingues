@@ -22,7 +22,7 @@ Or should I say Hello World?&nbsp;
 
 I'm a Software Engineer from Portugal 🇵🇹 I previously worked as a Full Stack Developer, but in recent years, I've specialized in Backend Development and Cloud Architecture. I'm passionate about security and performance, and I'm always seeking new challenges to enhance my skills. Also, I tend to prefer dark mode, because light attracts bugs 🐛
 
-I enjoy working out, playing football, and spending time with my family in my free time. I also love traveling with friends!
+I enjoy working out, playing football, spending time with my family, and discovering new cities with my friends.
 
 If you want to reach out :mailbox: or know more about my past experiences check my LinkedIn page -> [![Linkedin Badge](https://img.shields.io/badge/-sapdomingues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sapdomingues/)
 
